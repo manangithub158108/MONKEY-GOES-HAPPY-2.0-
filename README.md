@@ -1,2 +1,2 @@
-# MONKEY-GOES-HAPPY-2.0-
-AN UPDATED VERSION
+# p5.play-boilerplate
+Boiler plate for p5.play
